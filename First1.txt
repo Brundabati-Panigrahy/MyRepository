@@ -4,6 +4,25 @@ adding new line in branch 1 to check conflict
 =======
 Adding new line in main to check merge conflict
 >>>>
+<<<<<<< HEAD
 //adding from desktop
 csdhfdscf
 dfsdgcfsdf
+=======
+
+//adding from desktop
+=======
+adding line after adding from desktop
+gcbuydscgbfusd
+dsgcuydscg
+sjdcvhcxjb
+
+>>>>>>> ea3240caad245a420b4b4adf1adcf4153a83beec
+fr rfgfrtgh5h6
+g j54uiog54
+rf
+f
+f
+f
+ff
+f
