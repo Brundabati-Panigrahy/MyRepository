@@ -1,2 +1,6 @@
 My text file created in main branch
+<<<
 adding new line in branch 1 to check conflict
+=======
+Adding new line in main to check merge conflict
+>>>>
